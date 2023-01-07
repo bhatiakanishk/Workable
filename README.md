@@ -6,3 +6,7 @@ Workable is an iOS application, created with the current scenarios caused by the
 The application provides a compact platform for the users to post details about referrals or any professional help they can provide. The post consists of the organization's name, available positions with required skills, qualifications, about the organization, and contact details.
 
 All users can view the posts and contact the concerned individual from the details provided. The users can also log into the application and open the dashboard to manage their posts. The user also can edit and delete their posts
+
+## Technologies Used
+• Xcode 14.2
+• Firebase
