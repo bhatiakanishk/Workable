@@ -9,4 +9,5 @@ All users can view the posts and contact the concerned individual from the detai
 
 ## Technologies Used
 • Xcode 14.2
+
 • Firebase
