@@ -8,7 +8,7 @@ The application provides a compact platform for the users to post details about 
 All users can view the posts and contact the concerned individual from the details provided. The users can also log into the application and open the dashboard to manage their posts. The user also can edit and delete their posts
 
 ```
-Please refer the report provided in this repository for further details about the application.
+Please refer to the report provided in this repository for further details about the application.
 ```
 
 ## Technologies Used
